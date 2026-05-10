@@ -121,7 +121,7 @@ Experimenting with OpenCV + MediaPipe to create hand-tracking based macOS intera
 
 ## 🌐 Full-Stack Web Platforms
 
-Developing Django-based web platforms with deployment pipelines, authentication systems, and scalable backend infrastructure.
+Developing Django-based web platforms with deployment pipelines, authentication systems, and scalable backend infrastructure.(Stripe)
 
 ---
 
