@@ -1,20 +1,21 @@
-# Hi there 👋 I'm Vincent
+Hi there 👋 I'm Vincent
 
-Full-stack developer with a strong focus on backend systems, automation, DevOps, and security-oriented software engineering.
+Ethical awareness hacker and full-stack developer focused on backend systems, automation, DevOps, and security-oriented software engineering.
 
-I build modern web applications, Linux-based infrastructure, CLI tools, and experimental desktop software with an interest in low-level systems, networking, and operational security.
+Working primarily in controlled and authorized environments, I build modern web applications, Linux-based infrastructure, CLI tools, and experimental desktop software with a strong interest in networking, system behavior, and operational security.
 
 ---
 
-# 🚀 About Me
-
-- 🖥️ Building and deploying full-stack applications
-- 🐍 Python-focused developer
-- ⚙️ Working with Linux servers, VPS infrastructure, and deployment pipelines
-- 🧪 Interested in cybersecurity, networking, and controlled security labs
-- 🍎 Developing primarily on macOS (Apple Silicon)
-- 🐧 Using Linux environments including Ubuntu, Kali Linux, and ParrotOS
-- 🛠️ Passionate about clean architecture, CLI tooling, and automation workflows
+🚀 About Me
+🖥️ Building and deploying full-stack applications
+🐍 Python-focused developer
+🏗️ Designing scalable user, subscription, and payment architectures
+💳 Working with Stripe integrations, billing systems, and recurring payment flows
+⚙️ Managing Linux servers, VPS infrastructure, and deployment pipelines
+🧪 Interested in cybersecurity, networking, and controlled security labs
+🍎 Developing primarily on macOS (Apple Silicon)
+🐧 Using Linux environments including Ubuntu, Kali Linux, and ParrotOS
+🛠️ Passionate about clean architecture, backend systems, CLI tooling, and automation workflows
 
 ---
 
@@ -25,9 +26,9 @@ I build modern web applications, Linux-based infrastructure, CLI tools, and expe
 - Python
 - JavaScript
 - Bash
-- C
+- C 
 - HTML5 / CSS3
-- SQL
+- SQL *(learning)*
 - Rust *(learning)*
 
 ---
@@ -95,7 +96,6 @@ I build modern web applications, Linux-based infrastructure, CLI tools, and expe
 
 - Secure software architecture
 - Automation systems
-- AI-assisted tooling
 - Low-level programming
 - Linux internals
 - Advanced Python tooling
