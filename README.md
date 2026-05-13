@@ -1,4 +1,4 @@
-Hi there 👋 I'm Vincent
+# Hi there 👋 I'm Vincent
 
 Ethical awareness hacker and full-stack developer focused on backend systems, automation, DevOps, and security-oriented software engineering.
 
@@ -6,16 +6,17 @@ Working primarily in controlled and authorized environments, I build modern web 
 
 ---
 
-🚀 About Me
-🖥️ Building and deploying full-stack applications
-🐍 Python-focused developer
-🏗️ Designing scalable user, subscription, and payment architectures
-💳 Working with Stripe integrations, billing systems, and recurring payment flows
-⚙️ Managing Linux servers, VPS infrastructure, and deployment pipelines
-🧪 Interested in cybersecurity, networking, and controlled security labs
-🍎 Developing primarily on macOS (Apple Silicon)
-🐧 Using Linux environments including Ubuntu, Kali Linux, and ParrotOS
-🛠️ Passionate about clean architecture, backend systems, CLI tooling, and automation workflows
+# 🚀 About Me
+
+- 🖥️ Building and deploying full-stack applications
+- 🐍 Python-focused developer
+- 🏗️ Designing scalable user, subscription, and payment architectures
+- 💳 Working with Stripe integrations, billing systems, and recurring payment flows
+- ⚙️ Managing Linux servers, VPS infrastructure, and deployment pipelines
+- 🧪 Interested in cybersecurity, networking, and controlled security labs
+- 🍎 Developing primarily on macOS (Apple Silicon)
+- 🐧 Using Linux environments including Ubuntu, Kali Linux, and ParrotOS
+- 🛠️ Passionate about clean architecture, backend systems, CLI tooling, and automation workflows
 
 ---
 
@@ -26,7 +27,7 @@ Working primarily in controlled and authorized environments, I build modern web 
 - Python
 - JavaScript
 - Bash
-- C 
+- C
 - HTML5 / CSS3
 - SQL *(learning)*
 - Rust *(learning)*
