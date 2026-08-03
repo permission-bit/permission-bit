@@ -21,26 +21,8 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF6600?style=for-the-badge&logo=ghidra&logoColor=white)
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=permission-bit&theme=github-dark">
 
-<img src="https://komarev.com/ghpvc/?username=permission-bit&color=blue" />
+<img src="https://github-profile-trophy.vercel.app/?username=permission-bit&theme=darkhub">
 
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=permission-bit&show_icons=true&theme=github_dark" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=permission-bit&layout=compact&theme=github_dark" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=permission-bit&theme=github-dark" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=permission-bit&theme=darkhub" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=permission-bit&theme=github-dark" />
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=permission-bit&theme=github-dark">
