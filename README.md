@@ -21,3 +21,14 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF6600?style=for-the-badge&logo=ghidra&logoColor=white)
 
+![Profile views](https://komarev.com/ghpvc/?username=DEIN_USERNAME&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DEIN_USERNAME&theme=github-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=github_dark)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=DEIN_USERNAME&theme=darkhub)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DEIN_USERNAME&theme=github-dark)
