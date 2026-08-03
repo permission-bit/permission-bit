@@ -1,3 +1,4 @@
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -21,8 +22,8 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF6600?style=for-the-badge&logo=ghidra&logoColor=white)
 
-<img src="https://streak-stats.demolab.com?user=permission-bit&theme=github-dark">
+<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=permission-bit&theme=darkhub">
+![Profile Views](https://komarev.com/ghpvc/?username=permission-bit&label=Profile%20Views&color=blue&style=for-the-badge)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=permission-bit&theme=github-dark">
+</div>
