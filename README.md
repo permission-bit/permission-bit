@@ -25,10 +25,11 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=permission-bit&label=Profile%20Views&color=blue&style=for-the-badge)
+</div>
 
 ## 👋 About Me
 
-I am a Cyber Security enthusiast focused on understanding modern threats, analyzing malicious behavior, and building secure systems.
+I am a Cyber Security enthusiast focused on understanding modern threats, analyzing malicious behavior, and developing secure solutions.
 
 My main interests include:
 
@@ -39,36 +40,39 @@ My main interests include:
 - ⚙️ Low-Level Programming, C & Assembly
 - 🐍 Python Security Tool Development
 
-My goal is to continuously improve my skills in cybersecurity by creating realistic lab environments, analyzing attack techniques, and developing defensive solutions.
+My goal is to continuously improve my cybersecurity skills by building realistic research environments, analyzing attack techniques, and developing defensive solutions.
 
 ---
 
-## 🧪 Security Labs & Research
+## 🔬 Malware Research & Security Labs
 
-I create isolated cybersecurity labs to study real-world attack techniques and improve my understanding of modern threats.
+I build isolated cybersecurity research environments to better understand modern threats and improve defensive security capabilities.
 
-My research environments include topics such as:
+My work includes:
 
-- Malware behavior analysis
-- Phishing simulation and awareness testing
-- Ransomware behavior research in controlled environments
-- Authentication and security testing
-- Network reconnaissance
-- Adversary techniques and defense mechanisms
+- 🧬 Developing custom malware simulations for controlled laboratory research
+- 🔍 Analyzing malware behavior, execution flow, and system interactions
+- 🧪 Creating isolated environments to safely test attack techniques
+- ⚙️ Studying persistence mechanisms, evasion concepts, and security weaknesses
+- 🛡️ Developing detection methods and defensive countermeasures
+- 🔬 Performing reverse engineering and binary analysis using tools such as Ghidra
 
-All experiments are performed in private, controlled laboratory environments for educational and security research purposes.
+All malware-related projects are created, tested, and analyzed exclusively in controlled laboratory environments for educational and cybersecurity research purposes.
+
+The objective is to understand attacker techniques, improve detection capabilities, and develop stronger defensive solutions.
 
 ---
 
 ## 🔒 Private Security Projects
 
-Some of my cybersecurity projects, especially malware-analysis environments and security research labs, are stored in private GitHub repositories.
+Some of my cybersecurity projects, especially malware research environments and security labs, are stored in private GitHub repositories.
 
-This is done for security reasons, to prevent test environments, examples, and technical concepts from being misused.
+These repositories contain experimental code, research environments, and technical implementations that are kept private to prevent misuse and ensure responsible handling of security research.
 
-If you are interested in reviewing these projects, feel free to contact me (VincentNaujoks@proton.me). I can provide access to selected private repositories after verification.
+If you are interested in reviewing my work, feel free to contact me:
 
-Please provide your GitHub username or the associated email address so I can grant repository access.
+📧 VincentNaujoks@proton.me
 
-I am happy to share deeper insights into my practical experience and security research work.
-</div>
+Access to selected private repositories can be provided after verification. Please share your GitHub username or the email address associated with your GitHub account.
+
+I am happy to provide deeper insights into my practical security research, technical approaches, and cybersecurity projects.
