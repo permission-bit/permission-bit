@@ -1,164 +1,46 @@
-# Hi there 👋 I'm Vincent
+### PROGRAMMING LANGUAGES
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Ethical awareness hacker and full-stack developer focused on backend systems, automation, DevOps, and security-oriented software engineering.
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-Working primarily in controlled and authorized environments, I build modern web applications, Linux-based infrastructure, CLI tools, and experimental desktop software with a strong interest in networking, system behavior, and operational security.
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-# 🚀 About Me
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
 
-- 🖥️ Building and deploying full-stack applications
-- 🐍 Python-focused developer
-- 🏗️ Designing scalable user, subscription, and payment architectures
-- 💳 Working with Stripe integrations, billing systems, and recurring payment flows
-- ⚙️ Managing Linux servers, VPS infrastructure, and deployment pipelines
-- 🧪 Interested in cybersecurity, networking, and controlled security labs
-- 🍎 Developing primarily on macOS (Apple Silicon)
-- 🐧 Using Linux environments including Ubuntu, Kali Linux, and ParrotOS
-- 🛠️ Passionate about clean architecture, backend systems, CLI tooling, and automation workflows
 
----
+### FRAMEWORKS
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-# 💻 Tech Stack
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## Languages
 
-- Python
-- JavaScript
-- Bash
-- C
-- HTML5 / CSS3
-- SQL *(learning)*
-- Rust *(learning)*
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
 
-## Backend & Web
+### TOOLS
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Django
-- Flask
-- REST APIs
-- Authentication Systems
-- Session Handling
-- Middleware Development
-- Reverse Proxy Configuration
-- Template Rendering
-- Async & Threaded Processing
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## DevOps & Infrastructure
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-- Linux Server Administration
-- Ubuntu VPS Management
-- Nginx
-- Gunicorn
-- Git & GitHub
-- Virtual Environments (venv)
-- SSH
-- Environment Configuration
-- Process Management
-- Logging & Debugging
 
----
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Security & Networking
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-> Educational and authorized environments only.
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- TCP/IP & Socket Programming
-- Port Scanning Utilities
-- Local Security Testing Labs
-- Traffic Analysis
-- Firewall Configuration
-- Tor / Proxychains
-- Network Diagnostics
-- HTTP / HTTPS Analysis
-- Authentication Flow Testing
-- Secure File Handling
 
----
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 
-## Desktop & System Development
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-- PyInstaller Packaging
-- PySide6 GUI Applications
-- OpenCV
-- MediaPipe
-- macOS App Bundling
-- Apple Silicon Optimization
-- Threaded File Processing
-- Gesture-Based Interfaces
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
----
-
-# 🔥 Current Interests
-
-- Secure software architecture
-- Automation systems
-- Low-level programming
-- Linux internals
-- Advanced Python tooling
-- System design
-- Desktop application engineering
-- Security research in isolated environments
-
----
-
-# 📂 Featured Project Areas
-
-## 🔐 Encryption & File Processing
-
-Building high-performance file encryption workflows using streaming cryptography and threaded processing pipelines.
-
----
-
-## 🤖 Gesture-Controlled Interfaces
-
-Experimenting with OpenCV + MediaPipe to create hand-tracking based macOS interaction systems.
-
----
-
-## 🌐 Full-Stack Web Platforms
-
-Developing Django-based web platforms with deployment pipelines, authentication systems, and scalable backend infrastructure.(Stripe)
-
----
-
-## ⚡ CLI & Automation Tools
-
-Creating terminal-first developer utilities for networking, diagnostics, and workflow automation.
-
----
-
-# 🧰 Tools & Platforms
-
-- macOS
-- Linux
-- Ubuntu Server
-- Kali Linux
-- ParrotOS
-- UTM
-- Homebrew
-- VS Code
-- GitHub
-- Terminal / Shell Environments
-
----
-
-# 📈 Philosophy
-
-I enjoy understanding how systems work internally — from networking and operating systems to application deployment and runtime behavior.
-
-Most of my projects focus on learning, experimentation, automation, and building practical software with clean structure and real-world deployment experience.
-
----
-
-# 📫 Connect
-
-- Open Source Projects
-- Backend Engineering
-- Automation & Infrastructure
-- Security-Oriented Development
-- Experimental Software Engineering
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
