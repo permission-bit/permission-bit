@@ -25,7 +25,10 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=permission-bit&label=Profile%20Views&color=blue&style=for-the-badge)
+
 </div>
+
+{{STATS}}
 
 ## 👋 About Me
 
