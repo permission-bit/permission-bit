@@ -116,7 +116,7 @@ stats = f"""<!-- START_STATS -->
 
 | Statistic | Value |
 |-----------|------:|
-| 📝 Total Contributions | {total_commits} |
+| 📝 Total Commits | {total_commits} |
 | 📦 Total Repositories | {len(repos)} |
 
 ### 💻 Languages
