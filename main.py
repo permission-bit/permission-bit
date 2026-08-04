@@ -74,13 +74,56 @@ for repo in repos:
 
 print(f"\n📝 Gesamtzahl der Commits: {total_commits}")
 
+
+from collections import Counter
+
+languages = Counter()
+
+for repo in repos:
+    response = requests.get(
+        repo["languages_url"],
+        headers=headers
+    )
+
+    response.raise_for_status()
+
+    data = response.json()
+
+    for language, size in data.items():
+        languages[language] += size
+
+
+def format_size(size):
+    units = ["B", "KB", "MB", "GB"]
+    size = float(size)
+
+    for unit in units:
+        if size < 1024 or unit == units[-1]:
+            return f"{size:.2f} {unit}"
+        size /= 1024
+
+
+language_table = ""
+
+for language, size in languages.most_common():
+    language_table += (
+        f"| {language} | {format_size(size)} |\n"
+    )
+
+
 stats = f"""<!-- START_STATS -->
 ## 📊 GitHub Statistics
 
-| Statistik | Wert |
+| Statistic | Value |
 |-----------|------:|
-| 📝 Total Commits | {total_commits} |
-| 📦 Repositories | {len(repos)} |
+| 📝 Total Contributions | {total_commits} |
+| 📦 Total Repositories | {len(repos)} |
+
+### 💻 Languages
+
+| Language | Size |
+|----------|------:|
+{language_table}
 <!-- END_STATS -->"""
 
 
