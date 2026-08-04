@@ -74,13 +74,45 @@ for repo in repos:
 
 print(f"\n📝 Gesamtzahl der Commits: {total_commits}")
 
-with open("README_TEMPLATE.md", "r", encoding="utf-8") as f:
-    template = f.read()
+stats = f"""<!-- START_STATS -->
+## 📊 GitHub Statistics
 
-template = template.replace("{{COMMITS}}", str(total_commits))
-template = template.replace("{{REPOS}}", str(len(repos)))
+| Statistik | Wert |
+|-----------|------:|
+| 📝 Total Commits | {total_commits} |
+| 📦 Repositories | {len(repos)} |
+<!-- END_STATS -->"""
+
+
+with open("README.md", "r", encoding="utf-8") as f:
+    readme = f.read()
+
+
+start = "<!-- START_STATS -->"
+end = "<!-- END_STATS -->"
+
+start_index = readme.find(start)
+end_index = readme.find(end)
+
+
+if start_index == -1 or end_index == -1:
+    raise Exception(
+        "Stats-Bereich nicht gefunden. Füge START_STATS und END_STATS in README.md ein."
+    )
+
+
+end_index += len(end)
+
+
+readme = (
+    readme[:start_index]
+    + stats
+    + readme[end_index:]
+)
+
 
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(template)
+    f.write(readme)
+
 
 print("✅ README.md aktualisiert")

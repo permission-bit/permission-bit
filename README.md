@@ -28,7 +28,16 @@
 
 </div>
 
-{{STATS}}
+<!-- START_STATS -->
+
+## 📊 GitHub Statistics
+
+| Statistik        | Wert |
+| ---------------- | ---: |
+| 📝 Total Commits |  641 |
+| 📦 Repositories  |   19 |
+
+<!-- END_STATS -->
 
 ## 👋 About Me
 
