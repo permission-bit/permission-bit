@@ -67,11 +67,7 @@ My goal is to continuously improve my cybersecurity skills by building realistic
 
 ---
 
-
-
-https://github.com/user-attachments/assets/ba231926-c872-4f0d-819d-cb05dda8384c
-
-
+<video src="https://github.com/user-attachments/assets/ba231926-c872-4f0d-819d-cb05dda8384c" width="400" controls></video>
 
 ## 🔬 Malware Research & Security Labs
 
