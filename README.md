@@ -41,7 +41,7 @@
 
 | Statistic | Value |
 |-----------|------:|
-| 📝 Total Commits | 683 |
+| 📝 Total Commits | 684 |
 | 📦 Total Repositories | 28 |
 | ⭐ Total Stars | 0 |
 | 🍴 Total Forks | 0 |
@@ -64,9 +64,6 @@
 
 
 </td>
-
-<td width="50"></td>
-
 
 </tr>
 </table>
