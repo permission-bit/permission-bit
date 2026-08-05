@@ -1,6 +1,3 @@
-<img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/cfe3f199-75c4-44f6-8d3d-a11069f3db8c" />
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -68,7 +65,8 @@ My goal is to continuously improve my cybersecurity skills by building realistic
 
 ---
 
-<video src="https://github.com/user-attachments/assets/ba231926-c872-4f0d-819d-cb05dda8384c" width="400" controls></video>
+<img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/cfe3f199-75c4-44f6-8d3d-a11069f3db8c" />
+<div align="center">
 
 ## 🔬 Malware Research & Security Labs
 
