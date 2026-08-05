@@ -123,12 +123,7 @@ stats = f"""<!-- START_STATS -->
 
 <div align="center">
 
-<table>
-<tr>
-
-<td valign="top">
-
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 | Statistic | Value |
 |-----------|------:|
@@ -138,24 +133,16 @@ stats = f"""<!-- START_STATS -->
 | 🍴 Total Forks | {total_forks} |
 | 🐛 Open Issues | {total_open_issues} |
 
-</td>
-
-<td valign="top">
-
 ### 💻 Languages
 
 | Language | Size |
 |----------|------:|
 {language_table}
 
-</td>
-
-</tr>
-</table>
-
 </div>
 
 <!-- END_STATS -->"""
+
 
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()

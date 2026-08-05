@@ -32,41 +32,26 @@
 
 <div align="center">
 
-<table>
-<tr>
+## 📊 GitHub Statistics
 
-<td valign="top">
-
-### 📊 GitHub Statistics
-
-| Statistic | Value |
-|-----------|------:|
-| 📝 Total Commits | 684 |
-| 📦 Total Repositories | 28 |
-| ⭐ Total Stars | 0 |
-| 🍴 Total Forks | 0 |
-| 🐛 Open Issues | 0 |
-
-</td>
-
-<td valign="top">
+| Statistic             | Value |
+| --------------------- | ----: |
+| 📝 Total Commits      |   685 |
+| 📦 Total Repositories |    28 |
+| ⭐ Total Stars        |     0 |
+| 🍴 Total Forks        |     0 |
+| 🐛 Open Issues        |     0 |
 
 ### 💻 Languages
 
-| Language | Size |
-|----------|------:|
-| HTML | 1.90 MB |
-| Python | 516.03 KB |
-| CSS | 187.04 KB |
-| JavaScript | 27.70 KB |
-| Shell | 12.43 KB |
-| PowerShell | 985.00 B |
-
-
-</td>
-
-</tr>
-</table>
+| Language   |      Size |
+| ---------- | --------: |
+| HTML       |   1.90 MB |
+| Python     | 516.00 KB |
+| CSS        | 187.04 KB |
+| JavaScript |  27.70 KB |
+| Shell      |  12.43 KB |
+| PowerShell |  985.00 B |
 
 </div>
 
