@@ -120,7 +120,27 @@ for language, size in languages.most_common():
 
 
 stats = f"""<!-- START_STATS -->
-## 📊 GitHub Statistics
+
+<div align="center">
+
+<table>
+<tr>
+
+<td valign="top">
+
+### 💻 Languages
+
+| Language | Size |
+|----------|------:|
+{language_table}
+
+</td>
+
+<td width="50"></td>
+
+<td valign="top">
+
+### 📊 GitHub Statistics
 
 | Statistic | Value |
 |-----------|------:|
@@ -130,13 +150,14 @@ stats = f"""<!-- START_STATS -->
 | 🍴 Total Forks | {total_forks} |
 | 🐛 Open Issues | {total_open_issues} |
 
-### 💻 Languages
+</td>
 
-| Language | Size |
-|----------|------:|
-{language_table}
+</tr>
+</table>
+
+</div>
+
 <!-- END_STATS -->"""
-
 
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
