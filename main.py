@@ -43,6 +43,14 @@ for repo in repos:
 
 
 total_commits = 0
+total_stars = 0
+total_forks = 0
+total_open_issues = 0
+
+for repo in repos:
+    total_stars += repo["stargazers_count"]
+    total_forks += repo["forks_count"]
+    total_open_issues += repo["open_issues_count"]
 
 for repo in repos:
     print(f"Durchsuche {repo['name']}...")
@@ -118,6 +126,9 @@ stats = f"""<!-- START_STATS -->
 |-----------|------:|
 | 📝 Total Commits | {total_commits} |
 | 📦 Total Repositories | {len(repos)} |
+| ⭐ Total Stars | {total_stars} |
+| 🍴 Total Forks | {total_forks} |
+| 🐛 Open Issues | {total_open_issues} |
 
 ### 💻 Languages
 
