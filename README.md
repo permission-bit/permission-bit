@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -85,7 +87,6 @@ The objective is to understand attacker techniques, improve detection capabiliti
 ---
 
 <img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/a55d2dc9-5ef5-49f6-8f0f-79ce04bc8307" />
-<div align="center">
 
 ## 🔒 Private Security Projects
 
