@@ -67,7 +67,7 @@ My goal is to continuously improve my cybersecurity skills by building realistic
 
 ---
 
-![path](demo_klein.mp4)
+<video src="demo_klein.mp4" controls></video>
 
 ## 🔬 Malware Research & Security Labs
 
