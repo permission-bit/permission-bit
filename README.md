@@ -96,7 +96,7 @@ These repositories contain experimental code, research environments, and technic
 
 If you are interested in reviewing my work, feel free to contact me:
 
-📧 VincentNaujoks@proton.me
+📧 permission.GitHub@proton.me
 
 Access to selected private repositories can be provided after verification. Please share your GitHub username or the email address associated with your GitHub account.
 
