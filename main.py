@@ -128,18 +128,6 @@ stats = f"""<!-- START_STATS -->
 
 <td valign="top">
 
-### 💻 Languages
-
-| Language | Size |
-|----------|------:|
-{language_table}
-
-</td>
-
-<td width="50"></td>
-
-<td valign="top">
-
 ### 📊 GitHub Statistics
 
 | Statistic | Value |
@@ -151,6 +139,19 @@ stats = f"""<!-- START_STATS -->
 | 🐛 Open Issues | {total_open_issues} |
 
 </td>
+
+<td valign="top">
+
+### 💻 Languages
+
+| Language | Size |
+|----------|------:|
+{language_table}
+
+</td>
+
+<td width="50"></td>
+
 
 </tr>
 </table>
