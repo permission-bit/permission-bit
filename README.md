@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/f769ae85-b20f-44aa-9839-b89702717ccb
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,7 +67,7 @@ My goal is to continuously improve my cybersecurity skills by building realistic
 
 ---
 
-<video src="./demo_klein.mp4" controls width="800"></video>
+https://github.com/user-attachments/assets/f769ae85-b20f-44aa-9839-b89702717ccb
 
 ## 🔬 Malware Research & Security Labs
 
