@@ -1,3 +1,4 @@
+<img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/cfe3f199-75c4-44f6-8d3d-a11069f3db8c" />
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -87,7 +88,10 @@ All malware-related projects are created, tested, and analyzed exclusively in co
 The objective is to understand attacker techniques, improve detection capabilities, and develop stronger defensive solutions.
 
 ---
+<img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/cfe3f199-75c4-44f6-8d3d-a11069f3db8c" />
+<div align="center">
 
+  
 ## 🔒 Private Security Projects
 
 Some of my cybersecurity projects, especially malware research environments and security labs, are stored in private GitHub repositories.
