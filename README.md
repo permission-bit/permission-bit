@@ -29,24 +29,23 @@
 </div>
 
 <!-- START_STATS -->
-
 ## 📊 GitHub Statistics
 
-| Statistic             | Value |
-| --------------------- | ----: |
-| 📝 Total Commits      |   674 |
-| 📦 Total Repositories |    19 |
+| Statistic | Value |
+|-----------|------:|
+| 📝 Total Commits | 678 |
+| 📦 Total Repositories | 23 |
 
 ### 💻 Languages
 
-| Language   |      Size |
-| ---------- | --------: |
-| HTML       |   1.90 MB |
-| Python     | 477.72 KB |
-| CSS        | 187.04 KB |
-| JavaScript |  27.70 KB |
-| Shell      |  12.37 KB |
-| PowerShell |  985.00 B |
+| Language | Size |
+|----------|------:|
+| HTML | 1.90 MB |
+| Python | 497.61 KB |
+| CSS | 187.04 KB |
+| JavaScript | 27.70 KB |
+| Shell | 12.37 KB |
+| PowerShell | 985.00 B |
 
 <!-- END_STATS -->
 

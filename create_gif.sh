@@ -1,0 +1,1 @@
+ffmpeg -i demo_klein.mp4 -vf "fps=12,scale=700:-1" -loop 0 demo.gif
