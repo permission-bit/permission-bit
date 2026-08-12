@@ -93,7 +93,7 @@ The objective is to understand attacker techniques, improve detection capabiliti
 
 ---
 
-<img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/a55d2dc9-5ef5-49f6-8f0f-79ce04bc8307" />
+<!-- <img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/a55d2dc9-5ef5-49f6-8f0f-79ce04bc8307" /> -->
 
 ## 🔒 Private Security Projects
 
