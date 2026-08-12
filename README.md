@@ -36,8 +36,8 @@
 
 | Statistic             | Value |
 | --------------------- | ----: |
-| 📝 Total Commits      |   753 |
-| 📦 Total Repositories |    21 |
+| 📝 Total Commits      |   803 |
+| 📦 Total Repositories |    22 |
 | ⭐ Total Stars        |     0 |
 | 🍴 Total Forks        |     0 |
 | 🐛 Open Issues        |     0 |
@@ -46,11 +46,11 @@
 
 | Language   |      Size |
 | ---------- | --------: |
-| HTML       |   1.83 MB |
-| Python     | 535.26 KB |
+| HTML       |   1.88 MB |
+| Python     | 627.98 KB |
 | CSS        | 168.69 KB |
+| Shell      |  27.10 KB |
 | JavaScript |  23.75 KB |
-| Shell      |  13.09 KB |
 | PowerShell |  985.00 B |
 
 </div>
