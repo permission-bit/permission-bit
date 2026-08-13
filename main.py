@@ -30,7 +30,7 @@ while True:
     data = response.json()
 
     if not data:
-        break
+        break 
 
     repos.extend(data)
     page += 1
