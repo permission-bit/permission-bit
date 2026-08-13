@@ -95,6 +95,9 @@ The objective is to understand attacker techniques, improve detection capabiliti
 
 <!-- <img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/a55d2dc9-5ef5-49f6-8f0f-79ce04bc8307" /> -->
 
+<img width="700" height="438" alt="flappy" src="https://github.com/user-attachments/assets/8d14e92f-8696-46b7-bfe0-706525279445" />
+
+
 ## 🔒 Private Security Projects
 
 Some of my cybersecurity projects, especially malware research environments and security labs, are stored in private GitHub repositories.
