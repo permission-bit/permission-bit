@@ -95,7 +95,8 @@ The objective is to understand attacker techniques, improve detection capabiliti
 
 <!-- <img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/a55d2dc9-5ef5-49f6-8f0f-79ce04bc8307" /> -->
 
-<img width="700" height="438" alt="flappy" src="https://github.com/user-attachments/assets/8d14e92f-8696-46b7-bfe0-706525279445" />
+<img width="700" height="394" alt="FlappyBird" src="https://github.com/user-attachments/assets/ad3bf87f-8a7a-4691-a7f8-de432dbf7cb2" />
+
 
 
 ## 🔒 Private Security Projects
