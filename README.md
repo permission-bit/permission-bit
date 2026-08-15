@@ -36,7 +36,7 @@
 
 | Statistic             | Value |
 | --------------------- | ----: |
-| 📝 Total Commits      |   823 |
+| 📝 Total Commits      |   838 |
 | 📦 Total Repositories |    22 |
 | ⭐ Total Stars        |     0 |
 | 🍴 Total Forks        |     0 |
@@ -46,10 +46,10 @@
 
 | Language   |      Size |
 | ---------- | --------: |
-| HTML       |   1.89 MB |
-| Python     | 682.22 KB |
+| HTML       |   1.93 MB |
+| Python     | 704.22 KB |
 | CSS        | 168.69 KB |
-| Shell      |  35.60 KB |
+| Shell      |  66.40 KB |
 | JavaScript |  23.75 KB |
 | PowerShell |  985.00 B |
 
@@ -60,7 +60,6 @@
 ## 👋 About Me
 
 I am a Cyber Security enthusiast focused on understanding modern threats, analyzing malicious behavior, and developing secure solutions.
-
 
 My main interests include:
 
@@ -97,8 +96,6 @@ The objective is to understand attacker techniques, improve detection capabiliti
 <!-- <img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/a55d2dc9-5ef5-49f6-8f0f-79ce04bc8307" /> -->
 
 <!-- <img width="700" height="394" alt="FlappyBird" src="https://github.com/user-attachments/assets/ad3bf87f-8a7a-4691-a7f8-de432dbf7cb2" /> -->
-
-
 
 ## 🔒 Private Security Projects
 
