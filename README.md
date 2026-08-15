@@ -113,19 +113,3 @@ If you are interested in reviewing my work, feel free to contact me:
 Access to selected private repositories can be provided after verification. Please share your GitHub username or the email address associated with your GitHub account.
 
 I am happy to provide deeper insights into my practical security research, technical approaches, and cybersecurity projects.
-
-
-I am into hacking and software developing since February 2025. I heard about a cyber-attack on the hospital where I was born and started to study it. 
-I always loved Maths and Physics. No wonder I fell in love that quick. 
-While downloading Parrot-Security-OS, Kali Linux and TailsOS on a bootable usb drive, I already felt like some governments are spying on me.
-
-At first I tried some of the Kali tools. I think that was a great start to get comfortable with the terminal and concepts of hacking and software developing. It doesn't last long until I got bored. I wanted to make my own stuff! But what? 
-I started coding small websites. just for fun. Some html, css and JavaScript. But building small projects is boring too. 
-I wanted to start building real projects. No calculators. no file organizers. and no stupid to do lists
-I found Django and I fell in love again. I decided to make a marketplace for Software. I began and I didn't stopped doing. 
-I made a login page. you can register you can sign in. forgot password? No problem. 
-It sends a beautiful html E-mail with a link to the reset-password-page.
-I protected it against brute force attacks. 
-
-One day I thought about payments. How can I accept real money through ApplePay Klarna or co. ???
-The answer: Stripe. Atomatic 
