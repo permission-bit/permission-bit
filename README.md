@@ -111,4 +111,4 @@ Access to selected private repositories can be provided after verification. Plea
 
 I am happy to provide deeper insights into my practical security research, technical approaches, and cybersecurity projects.
 
-<img width="700" height="394" alt="brute" src="https://github.com/user-attachments/assets/3107506b-e948-4f95-9dd4-e886aede5457" />
+<img width="1200" height="675" alt="brute" src="https://github.com/user-attachments/assets/df3f8c98-2d8f-48b4-9ed2-fe39c8846be1" />
