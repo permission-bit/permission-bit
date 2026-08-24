@@ -34,24 +34,25 @@
 
 ## 📊 GitHub Statistics
 
-| Statistic             | Value |
-| --------------------- | ----: |
-| 📝 Total Commits      |   959 |
-| 📦 Total Repositories |    25 |
-| ⭐ Total Stars        |     0 |
-| 🍴 Total Forks        |     0 |
-| 🐛 Open Issues        |     0 |
+| Statistic | Value |
+|-----------|------:|
+| 📝 Total Commits | 986 |
+| 📦 Total Repositories | 26 |
+| ⭐ Total Stars | 0 |
+| 🍴 Total Forks | 0 |
+| 🐛 Open Issues | 0 |
 
 ### 💻 Languages
 
-| Language   |      Size |
-| ---------- | --------: |
-| HTML       |   2.05 MB |
-| Python     |   1.15 MB |
-| CSS        | 239.69 KB |
-| Shell      |  47.33 KB |
-| JavaScript |  44.81 KB |
-| PowerShell |  985.00 B |
+| Language | Size |
+|----------|------:|
+| HTML | 2.05 MB |
+| Python | 1.24 MB |
+| CSS | 239.69 KB |
+| Shell | 56.17 KB |
+| JavaScript | 44.81 KB |
+| PowerShell | 985.00 B |
+
 
 </div>
 
