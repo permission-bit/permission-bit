@@ -43,13 +43,13 @@ My main interests include:
 - ⚙️ Low-Level Programming, C & Assembly
 - 🐍 Python Security Tool Development
 
-My goal is to keep improving by building projects, experimenting with different technologies, and learning how systems and attacks work in practice.
+My goal is to continuously improve my cybersecurity skills by building realistic research environments, analyzing attack techniques, and developing defensive solutions.
 
 ---
 
 ## 🔬 Malware Research & Security Labs
 
-I build isolated cybersecurity labs to better understand modern threats and improve defensive security.
+I build isolated cybersecurity research environments to better understand modern threats and improve defensive security capabilities.
 
 My work includes:
 
@@ -62,20 +62,26 @@ My work includes:
 
 All malware-related projects are created, tested, and analyzed exclusively in controlled laboratory environments for educational and cybersecurity research purposes.
 
-The goal is to understand how attacks work, improve detection, and build stronger defensive solutions.
+The objective is to understand attacker techniques, improve detection capabilities, and develop stronger defensive solutions.
 
 ---
+
+<!-- <img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/a55d2dc9-5ef5-49f6-8f0f-79ce04bc8307" /> -->
+
+<img width="700" height="394" alt="FlappyBird" src="https://github.com/user-attachments/assets/ad3bf87f-8a7a-4691-a7f8-de432dbf7cb2" />
 
 ## 🔒 Private Security Projects
 
 Some of my cybersecurity projects, especially malware research environments and security labs, are stored in private GitHub repositories.
 
-These repositories contain experimental code, research environments, and technical implementations that are kept private to ensure responsible handling of security research.
+These repositories contain experimental code, research environments, and technical implementations that are kept private to prevent misuse and ensure responsible handling of security research.
 
 If you are interested in reviewing my work, feel free to contact me:
 
-📧 [permission.GitHub@proton.me](mailto:permission.GitHub@proton.me)
+📧 permission.GitHub@proton.me
 
 Access to selected private repositories can be provided after verification. Please share your GitHub username or the email address associated with your GitHub account.
 
-I am happy to share more about my practical security research, technical approaches, and cybersecurity projects.
+I am happy to provide deeper insights into my practical security research, technical approaches, and cybersecurity projects.
+
+<img width="900" alt="brute" src="https://github.com/user-attachments/assets/df3f8c98-2d8f-48b4-9ed2-fe39c8846be1" />
