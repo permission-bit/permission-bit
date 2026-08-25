@@ -30,7 +30,7 @@
 
 ## 👋 About Me
 
-I am the creator of **VincisX**, a Python utility library built to make common development tasks simpler and reduce repetitive code. The idea behind VincisX is simple: useful functionality should be easy to access without having to rewrite the same code again and again.
+I am the creator of **vincisex**, a Python utility library built to make common development tasks simpler and reduce repetitive code. The idea behind vincisex is simple: useful functionality should be easy to access without having to rewrite the same code again and again.
 
 I am a Cyber Security enthusiast focused on understanding modern threats, analyzing malicious behavior, and building secure solutions.
 
