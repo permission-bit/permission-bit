@@ -80,6 +80,8 @@ If you are interested in reviewing my work, feel free to contact me:
 
 📧 permission.GitHub@proton.me
 
+<img width="500" alt="Marketplace" src="https://github.com/user-attachments/assets/b359e068-4a5c-4176-8ade-851bd0a35b52" />
+
 Access to selected private repositories can be provided after verification. Please share your GitHub username or the email address associated with your GitHub account.
 
 I am happy to provide deeper insights into my practical security research, technical approaches, and cybersecurity projects.
