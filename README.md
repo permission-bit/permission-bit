@@ -30,7 +30,7 @@
 
 ## 👋 About Me
 
-I am the creator of **vincisex**, a Python utility library built to make common development tasks simpler and reduce repetitive code. The idea behind vincisex is simple: useful functionality should be easy to access without having to rewrite the same code again and again.
+I am the creator of **VincisX**, a Python utility library built to make common development tasks simpler and reduce repetitive code. The idea behind VincisX is simple: useful functionality should be easy to access without having to rewrite the same code again and again.
 
 I am a Cyber Security enthusiast focused on understanding modern threats, analyzing malicious behavior, and building secure solutions.
 
@@ -68,7 +68,7 @@ The objective is to understand attacker techniques, improve detection capabiliti
 
 <!-- <img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/a55d2dc9-5ef5-49f6-8f0f-79ce04bc8307" /> -->
 
-<img width="700" height="394" alt="FlappyBird" src="https://github.com/user-attachments/assets/ad3bf87f-8a7a-4691-a7f8-de432dbf7cb2" />
+<!-- <img width="700" height="394" alt="FlappyBird" src="https://github.com/user-attachments/assets/ad3bf87f-8a7a-4691-a7f8-de432dbf7cb2" /> -->
 
 ## 🔒 Private Security Projects
 
@@ -80,10 +80,8 @@ If you are interested in reviewing my work, feel free to contact me:
 
 📧 permission.GitHub@proton.me
 
-<img width="500" alt="Marketplace" src="https://github.com/user-attachments/assets/b359e068-4a5c-4176-8ade-851bd0a35b52" />
-
 Access to selected private repositories can be provided after verification. Please share your GitHub username or the email address associated with your GitHub account.
 
 I am happy to provide deeper insights into my practical security research, technical approaches, and cybersecurity projects.
 
-<img width="900" alt="brute" src="https://github.com/user-attachments/assets/df3f8c98-2d8f-48b4-9ed2-fe39c8846be1" />
+<!-- <img width="900" alt="brute" src="https://github.com/user-attachments/assets/df3f8c98-2d8f-48b4-9ed2-fe39c8846be1" /> -->
