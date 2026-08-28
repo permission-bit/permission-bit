@@ -1,5 +1,3 @@
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -65,6 +63,9 @@ All malware-related projects are created, tested, and analyzed exclusively in co
 The objective is to understand attacker techniques, improve detection capabilities, and develop stronger defensive solutions.
 
 ---
+
+<img width="700" alt="Marketplace" src="https://github.com/user-attachments/assets/2a987209-5231-470a-9cef-0c92678cb420" />
+<div align="center">
 
 <!-- <img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/a55d2dc9-5ef5-49f6-8f0f-79ce04bc8307" /> -->
 
