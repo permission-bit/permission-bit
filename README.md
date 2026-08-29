@@ -66,12 +66,12 @@ The objective is to understand attacker techniques, improve detection capabiliti
 
 ---
 
-<img width="700" alt="Marketplace" src="https://github.com/user-attachments/assets/2a987209-5231-470a-9cef-0c92678cb420" />
-<div align="center">
+<!--<img width="700" alt="Marketplace" src="https://github.com/user-attachments/assets/2a987209-5231-470a-9cef-0c92678cb420" />
+<div align="center"> -->
 
 <!-- <img width="600" height="375" alt="demo" src="https://github.com/user-attachments/assets/a55d2dc9-5ef5-49f6-8f0f-79ce04bc8307" /> -->
 
-<!-- <img width="700" height="394" alt="FlappyBird" src="https://github.com/user-attachments/assets/ad3bf87f-8a7a-4691-a7f8-de432dbf7cb2" /> -->
+<img width="700" height="394" alt="FlappyBird" src="https://github.com/user-attachments/assets/ad3bf87f-8a7a-4691-a7f8-de432dbf7cb2" />
 
 ## 🔒 Private Security Projects
 
@@ -87,4 +87,4 @@ Access to selected private repositories can be provided after verification. Plea
 
 I am happy to provide deeper insights into my practical security research, technical approaches, and cybersecurity projects.
 
-<!-- <img width="900" alt="brute" src="https://github.com/user-attachments/assets/df3f8c98-2d8f-48b4-9ed2-fe39c8846be1" /> -->
+<img width="900" alt="brute" src="https://github.com/user-attachments/assets/df3f8c98-2d8f-48b4-9ed2-fe39c8846be1" /> 
