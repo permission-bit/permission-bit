@@ -27,3 +27,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=permission-bit&label=Profile%20Views&color=blue&style=for-the-badge)
 
 </div>
+
+Most of my projects focus on cybersecurity, red teaming, and offensive security. Some of my labs and projects are kept private because making them publicly accessible could potentially be misused and cause serious damage.
+
+I believe security research should be handled responsibly. If you are interested in discussing or collaborating on any of my labs, feel free to contact me at **permission.GitHub@proton.me**.
+
